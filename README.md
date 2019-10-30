@@ -5,7 +5,7 @@ NLTK -- the Natural Language Toolkit -- is a suite of open source Python
 modules, data sets and tutorials supporting research and development in Natural
 Language Processing.
 
-For documentation, please visit [nltk.org](http://www.nltk.org/).
+For documentation, please visit [nltk.org] (http://www.nltk.org/).
 
 
 ## Contributing
@@ -14,7 +14,6 @@ Do you want to contribute with NLTK development? Great! Please read more details
 at [CONTRIBUTING.md](CONTRIBUTING.md).
 
 See also [How to contribute to NLTK](http://www.nltk.org/contribute.html).
-
 
 ## Donate
 
