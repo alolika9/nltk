@@ -20,14 +20,12 @@ See also [How to contribute to NLTK](http://www.nltk.org/contribute.html).
 Have you found the toolkit helpful?  Please support NLTK development by donating
 to the project via PayPal, using the link on the NLTK homepage.
 
-
 ## Citing
 
 If you publish work that uses NLTK, please cite the NLTK book, as follows:
 
     Bird, Steven, Edward Loper and Ewan Klein (2009).
     Natural Language Processing with Python.  O'Reilly Media Inc.
-
 
 ## Copyright
 
@@ -36,7 +34,6 @@ Copyright (C) 2001-2017 NLTK Project
 For license information, see [LICENSE.txt](LICENSE.txt).
 
 [AUTHORS.md](AUTHORS.md) have a list of everyone contributed to NLTK.
-
 
 ### Redistributing
 
