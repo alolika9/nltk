@@ -59,7 +59,7 @@
     </hudson.triggers.SCMTrigger>
   </triggers>
   <concurrentBuild>false</concurrentBuild>
-  <axes>
+<!--   <axes>
     <jenkins.plugins.shiningpanda.matrix.ToxAxis plugin="shiningpanda@0.16">
       <name>TOXENV</name>
       <values>
@@ -67,7 +67,7 @@
         <string>py32-jenkins</string>
       </values>
     </jenkins.plugins.shiningpanda.matrix.ToxAxis>
-  </axes>
+  </axes> -->
   <builders>
     <jenkins.plugins.shiningpanda.builders.ToxBuilder plugin="shiningpanda@0.16">
       <toxIni>tox.ini</toxIni>
